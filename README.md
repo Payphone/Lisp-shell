@@ -1,2 +1,2 @@
 # Lisp-shell
-Utilities for using Common Lisp as shell.
+Utilities for using Common Lisp as a shell.
